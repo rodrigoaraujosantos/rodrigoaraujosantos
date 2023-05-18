@@ -17,5 +17,5 @@
     <a href="[https://angular.io/](https://spring.io/)" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="36" height="36" alt="Springboot" style="max-width: 100%;"></a>
   </p>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoaraujosantos&layout=compact&langs_count=7&theme=tokyonight)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoaraujosantos&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoaraujosantos&layout=compact&langs_count=7&theme=tokyonight)
 </div>
