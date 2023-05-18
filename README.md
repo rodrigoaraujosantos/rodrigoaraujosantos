@@ -1,4 +1,4 @@
-<h1>Olá, seja bem vindo ao meu perfil do Github</h1> 
+<h1>Hello, this is my repository, here are all my codes from the begining of the jorney.</h1> 
 
 - 💻 Full-Stack Web Developer
 - 📫 Contact: <a href="mailto:araujo.1983@hotmail.com"> araujo.1983@hotmail.com </a>
