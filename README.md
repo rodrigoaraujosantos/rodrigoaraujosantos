@@ -1,4 +1,4 @@
-<div background-collor="blue">
+<div>
   <h1>Hello, this is my repository, here are all my codes from the begining of the jorney.</h1> 
 
   - 💻 Full-Stack Web Developer
@@ -12,7 +12,7 @@
     <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;"></a>
     <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="max-width: 100%;"></a>
     <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" style="max-width: 100%;"></a>
-    <a href="https://angular.io/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" style="max-width: 100%;"></a>
+    <a href="https://angular.io/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="36" height="36" alt="Angular" style="max-width: 100%;"></a>
     <a href="[https://angular.io/](https://spring.io/)" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="36" height="36" alt="Springboot" style="max-width: 100%;"></a>
   </p>
 
