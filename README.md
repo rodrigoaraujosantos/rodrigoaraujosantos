@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Sou Rodrigo Araujo Santos, um apaixonado por tecnologia e desenvolvimento de software. Tenho experiência em desenvolvimento web e móvel, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+Olá! Sou Rodrigo Araujo Santos, um apaixonado por tecnologia e desenvolvimento de software. Tenho experiência em desenvolvimento web, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
 Fora do mundo da programação, sou um amante de esportes. Estou entusiasmado em compartilhar meu conhecimento e colaborar em projetos interessantes.
 
