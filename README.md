@@ -1,21 +1,44 @@
-<div>
-  <h1>Hello, this is my repository, here are all my codes from the begining of the jorney.</h1> 
+# Rodrigo Araujo Santos
 
-  - 💻 Full-Stack Web Developer
-  - 📫 <a href="mailto:araujo.1983@hotmail.com"> araujo.1983@hotmail.com </a>
+## Sobre Mim
 
-  <h2>
-    <li>Skills:</li><br>
+Olá! Sou Rodrigo Araujo Santos, um apaixonado por tecnologia e desenvolvimento de software. Tenho experiência em desenvolvimento web e móvel, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
-  <p align="left" dir="auto">
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="max-width: 100%;"></a>
-    <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;"></a>
-    <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="max-width: 100%;"></a>
-    <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" style="max-width: 100%;"></a>
-    <a href="https://rubyonrails.org/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="36" height="36" alt="RoR" style="max-width: 100%;"></a>
-    <a href="https://angular.io/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="36" height="36" alt="Angular" style="max-width: 100%;"></a>
-    <a href="[https://angular.io/](https://spring.io/)" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="36" height="36" alt="Springboot" style="max-width: 100%;"></a>
-  </p>
+Fora do mundo da programação, sou um amante de esportes. Estou entusiasmado em compartilhar meu conhecimento e colaborar em projetos interessantes.
+
+## Habilidades
+
+- Desenvolvedor de Software Back-end
+- Linguagens: JavaScript, TypeScript, Java
+- Frameworks: Node.js, Express, Spring Boot, Ruby on Rails
+- Banco de Dados: SQL, PostgreSQL
+- Controle de Versão: Git
+- Frameworks Front-end: Angular.js
+
+
+## Projetos Destacados
+
+- Yolo - Projeto de conclusão do bootcamp de desenvolvimento web fullstack pela escola Le Wagon brasil, desenvolvemos uma aplicação web que comercializa frações de empresas que estão buscando aporte financeiro. Foi elaborado e executado em squad de 4 desenvolvedores, as principais tecnologias utilizadas foram Ruby on Rails, Javascript e Mysql.
+- E-commerce de nicho - Projeto de conclusão do meu segundo bootcamp de desenvolvimento Java fullstack pela escola Soulcode Academy, também através de squad, desenvolvemos do absoluto zero uma aplicação web para venda de softwares e hardwares, entre as tecnologias mais usadas estão: Spring boot, Angular e Firebase.
+
+## Contato
+
+- E-mail: araujo.1983@hotmail.com
+- LinkedIn: [linkedin.com/in/rodrigo-araujo-santos](https://www.linkedin.com/in/rodrigo-araujo-santos)
+- GitHub: [github.com/rodrigoaraujosantos](https://github.com/rodrigoaraujosantos)
+
+## Agradecimentos
+
+Agradeço a todas as pessoas que me apoiaram em minha jornada de desenvolvimento.
+
+
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoaraujosantos&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoaraujosantos&layout=compact&langs_count=7&theme=tokyonight)
-</div>
+
+
+
+
+
+
+
+
