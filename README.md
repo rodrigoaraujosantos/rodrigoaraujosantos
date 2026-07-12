@@ -1,21 +1,30 @@
 # Olá, eu sou o Rodrigo Araujo Santos! 👋
 
-### Development Architect & Engenheiro de Sistemas
-Especializado no desenho de soluções corporativas, arquiteturas móveis/web modernas e engenharia de agentes inteligentes utilizando a suíte **Google Antigravity** e o **Google Agent Development Kit (ADK)**.
+### Arquiteto de Soluções | Engenheiro de Software Fullstack & IA
+Formado em Ciências da Computação, graduado pelo bootcamp de desenvolvimento web **Le Wagon**, com especialização moderna no desenho de arquiteturas de software integradas com inteligência artificial utilizando a suíte **Google Antigravity** e o **Google Agent Development Kit (ADK)**.
 
 ---
 
-## 🚀 O que estou fazendo agora?
-* **Vida Pet Tech:** Co-fundador e Arquiteto de Soluções, desenhando e escalando um ecossistema digital inteligente de saúde e bem-estar pet.
-* **Engenharia de IA & SDD:** Aplicando metodologias de **Spec-Driven Development (SDD)** e arquiteturas orientadas a especificações/intenção para otimização de software.
+## 🚀 Atuação Atual & Projetos
+* **VidaPet.Tech (Co-fundador & Arquiteto de Soluções):** Liderando a arquitetura móvel (React Native) e web integrada a fluxos inteligentes de desenvolvimento guiado por especificações (**Spec-Driven Development - SDD**).
+* **Desenvolvimento Full Stack & IA:** Criação de soluções robustas em Node.js (Ecossistema iFood/Cubos) e desenvolvimento de jogos (SoulCode Academy).
 
-## 🛠️ Tecnologias e Ferramentas
-* **Front-end / Mobile:** React Native, Expo, React.js, TypeScript, JavaScript
-* **Back-end & Infra:** Node.js, PHP, MySQL, Google Cloud Platform (GCP)
-* **Engenharia de IA:** Google Antigravity Suite, Google ADK, Intent-based SDLC
+## 🛠️ Stack Tecnológica & Competências
+* **Linguagens & Frameworks:** TypeScript, JavaScript, Node.js, React Native, React, Java, Python, PHP
+* **Infraestrutura & IA:** Google Cloud Platform (GCP), MySQL, Google Antigravity Suite, Google ADK
+* **Metodologias:** Spec-Driven Development (SDD), Engenharia de Prompt, Arquitetura Baseada em Intenção
 
 ---
 
-## 💼 Conecte-se comigo
-* 🌐 **LinkedIn:** [rodrigo-araujo-santos](https://www.linkedin.com/in/rodrigo-araujo-santos/)
-* 📧 **E-mail:** rastecnologiasp@gmail.com
+## 🎓 Educação & Certificações Relevantes
+* **Graduação:** Bacharelado em Ciências da Computação / Tecnologia da Informação (Universidade Ibirapuera)
+* **Bootcamp Web Development:** Le Wagon (2022)
+* **Desenvolvimento Backend & Node.js:** Cubos Academy / iFood (2023)
+* **Formação Java Full Stack:** SoulCode Academy (2023)
+* **Desenvolvimento de Games:** SoulCode Academy (2025)
+* **Ciência de Dados & IA:** Data Science Academy (IA Fundamentos, Big Data, Ciência de Dados)
+
+---
+
+## 💼 Conecte-se Comigo
+* 🔗 **LinkedIn:** [rodrigo-araujo-santos](https://www.linkedin.com/in/rodrigo-araujo-santos/)
